@@ -1,7 +1,8 @@
 # Confluent Cloud CSFLE (Client Side Field Level Encryption)
 
 - [Confluent Cloud CSFLE (Client Side Field Level Encryption)](#confluent-cloud-csfle-client-side-field-level-encryption)
-  - [References:](#references)
+  - [Disclaimer](#disclaimer)
+  - [References](#references)
   - [AWS Setup](#aws-setup)
   - [CC Setup](#cc-setup)
     - [Register Schema](#register-schema)
@@ -11,7 +12,12 @@
   - [Clients](#clients)
   - [Cleanup](#cleanup)
 
-## References:
+## Disclaimer
+
+The code and/or instructions here available are **NOT** intended for production usage. 
+It's only meant to serve as an example or reference and does not replace the need to follow actual and official documentation of referenced products.
+
+## References
 
 - https://github.com/confluentinc/csfle-examples/tree/master/aws_shared_kek
 - https://docs.confluent.io/cloud/current/security/encrypt/csfle/quick-start.html
